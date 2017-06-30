@@ -1,0 +1,204 @@
+@media (max-width: 768px){
+	.data{
+	opacity: 0;
+	}
+	#menu-dashboard{
+		padding: 10px;
+		width: 280px;
+		border: 1px solid #cecece;
+		margin-right: 5px;
+		margin-bottom: 10px; 
+		box-shadow: 1px 1px 2px;
+		position: relative;
+		left: 40px;
+	}
+	#menu-dashboard_usuarios{
+		padding: 10px;
+		width: 280px;
+		border: 1px solid #cecece;
+		margin-right: 5px;
+		margin-bottom: 10px; 
+		box-shadow: 1px 1px 2px;
+		position: relative;
+		left: 40px;
+	}
+	#menu-dashboard_adicionar_usuarios{
+		padding: 10px;
+		width: 280px;
+		border: 1px solid #cecece;
+		margin-right: 5px;
+		margin-bottom: 10px; 
+		box-shadow: 1px 1px 2px;
+		position: relative;
+		left: 40px;
+	}
+	#menu-dashboard img{
+		width: 70%;
+		position: relative;
+		left: 40px;
+	}
+	#menu-dashboard_usuarios img{
+		width: 50%;
+		position: relative;
+		left: 60px;
+	}
+	#menu-dashboard_adicionar_usuarios img{
+		width: 40%;
+		position: relative;
+		left: 70px;
+	}
+	#menu-dashboard span.produtos{
+	font-family: verdana;
+	font-size: 18px;
+	position: relative;
+	left: 100px;
+	bottom: 10px;
+	}
+	#menu-dashboard_usuarios span.usuarios{
+	font-family: verdana;
+	font-size: 18px;
+	position: relative;
+	left: 90px;
+	bottom: 10px;
+	}
+	#menu-dashboard_usuarios span.clientes{
+	font-family: verdana;
+	font-size: 18px;
+	position: relative;
+	left: 90px;
+	bottom: 8px;
+	}
+	#menu-dashboard_usuarios span.chamados{
+		width: 55%;
+		position: relative;
+		left: 90px;
+		bottom: 5px;
+	}
+	#menu-dashboard_usuarios span.relatorio{
+		width: 55%;
+		position: relative;
+		left: 90px;
+		bottom: -2px;
+	}
+	#menu-dashboard_adicionar_usuarios span.adicionar_usuarios{
+	font-family: verdana;
+	font-size: 18px;
+	position: relative;
+	left: 50px;
+	bottom: 5px;
+	}
+	#menu-dashboard span.adicionar_produtos{
+	font-family: verdana;
+	font-size: 18px;
+	position: relative;
+	left: 55px;
+	bottom: 10px;
+	}
+}
+
+
+.navbar-brand img{
+	width: 100px;
+	position: relative;
+	top: -12px;
+}
+.data{
+	color: white;
+	position: relative;
+	top: 15px;
+	margin-right: 150px;
+}
+.page-header{
+	text-align: center;
+}
+.menu-btn span{
+	font-size: 20px;
+}
+@media (min-width: 768px){
+	.menuprincipal{
+		position: relative;
+		left: 50px;
+	}
+	#menu-dashboard{
+		position: relative;
+		bottom: 10px;
+		padding: 3px;
+		border: 1px solid #cecece;
+		margin-right: 15px;
+		box-shadow: 1px 1px 2px;
+	}
+	#menu-dashboard_usuarios{
+		position: relative;
+		bottom: 10px;
+		padding: 3px;
+		border: 1px solid #cecece;
+		margin-right: 15px;
+		box-shadow: 1px 1px 2px;
+	}
+	#menu-dashboard_adicionar_usuarios{
+		position: relative;
+		bottom: 10px;
+		padding: 3px;
+		border: 1px solid #cecece;
+		margin-right: 15px;
+		box-shadow: 1px 1px 2px;
+	}
+	#menu-dashboard img{
+		width: 100%;
+		position: relative;
+	}
+	#menu-dashboard_usuarios img{
+		width: 55%;
+		position: relative;
+		left: 40px;
+	}
+	#menu-dashboard_adicionar_usuarios img{
+		width: 55%;
+		position: relative;
+		left: 50px;
+	}
+	#menu-dashboard_usuarios span.usuarios{
+		width: 55%;
+		position: relative;
+		left: 60px;
+		bottom: 10px;
+	}
+	#menu-dashboard_usuarios span.clientes{
+		width: 55%;
+		position: relative;
+		left: 60px;
+		bottom: 5px;
+	}
+	#menu-dashboard_usuarios span.chamados{
+		width: 55%;
+		position: relative;
+		left: 60px;
+		bottom: 5px;
+	}
+	#menu-dashboard_usuarios span.relatorio{
+		width: 55%;
+		position: relative;
+		left: 60px;
+		bottom: 2px;
+	}
+	#menu-dashboard_adicionar_usuarios span.adicionar_usuarios{
+		width: 55%;
+		position: relative;
+		left: 30px;
+		bottom: 5px;
+	}
+	#menu-dashboard span.produtos{
+	font-family: verdana;
+	font-size: 14px;
+	position: relative;
+	left: 60px;
+	bottom: 10px;
+	}
+	#menu-dashboard span.adicionar_produtos{
+	font-family: verdana;
+	font-size: 14px;
+	position: relative;
+	left: 30px;
+	bottom: 10px;
+	}
+}

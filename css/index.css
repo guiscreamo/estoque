@@ -1,0 +1,103 @@
+@media (max-width: 768px){
+	.login-area{
+		width: 80%;
+		height: 200px;
+		background-color: #FFF;
+		margin: 150px auto 0 auto;
+		border-radius: 10px;
+		box-shadow: 1px 1px 3px;
+
+	}
+	.logo{
+		width: 150px;
+		padding: 10px auto;
+		margin: 10px auto;
+	}
+	.linha-imagem{
+	text-align: center;
+	}
+	.campos-login{
+		text-align: center;
+	}
+	.campos-login span{
+		color: #c4c4c4;
+		font-size: 13px;
+	}
+	.campos-login input{
+		padding: 1px;
+		margin-bottom: 5px;
+		width: 80%;
+		border-radius: 5px;
+		border: 1px solid #cecece;
+	}
+	.btn-logar{
+		position: relative;
+		margin-left: 10px;
+		width: 50%;
+	}
+	a{
+		position: relative;
+		top: 15px;
+		float: right;
+		color: black;
+		font-size: 12px;
+		text-decoration: underline;
+	}
+	a:hover{
+		color: #337ab7;
+	}
+}
+body{
+	background-color: #cecece;
+}
+@media (min-width: 768px){
+	.login-area{
+		width: 30%;
+		background-color: #FFF;
+		margin-top: 150px;
+		height: 200px;
+		border-radius: 10px;
+		box-shadow: 1px 1px 3px;
+	}
+	.linha-imagem{
+		text-align: center;
+	}
+	.logo{
+		width: 150px;
+		padding: 10px auto;
+		margin: 0 auto;
+		padding: 10px 0;
+	}
+	.campos-login{
+		text-align: center;
+	}
+	.campos-login span{
+		color: #c4c4c4;
+		font-size: 13px;
+	}
+	.campos-login input{
+		padding: 1px;
+		margin-bottom: 5px;
+		width: 50%;
+		border-radius: 5px;
+		border: 1px solid #cecece;
+	}
+	.btn-logar{
+		position: relative;
+		margin-left: 15px;
+		width: 48%;
+	}
+	a{
+		position: relative;
+		top: 15px;
+		float: right;
+		color: black;
+		font-size: 12px;
+		text-decoration: underline;
+	}
+	a:hover{
+		color: #337ab7;
+	}
+
+
+}
